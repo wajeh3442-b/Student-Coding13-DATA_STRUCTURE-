@@ -25,19 +25,7 @@ IDE: IntelliJ IDEA
 
 Java Version: JDK 8 or above
 
-📁 Project Structure
-gugi99/
-│
-├── src/
-│   └── Main.java
-│
-├── out/
-│   └── production/
-│       └── gugi99/
-│
-├── .idea/
-├── gugi99.iml
-└── .gitignore
+
 
 ⚙ Features
 
